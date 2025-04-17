@@ -1,0 +1,8 @@
+git add:  add the file through the staging area
+
+
+git status: quick way to check staging area
+
+git add: for adding in local repository
+
+git commit: everything is placed in repository

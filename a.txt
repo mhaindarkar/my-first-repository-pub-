@@ -1,0 +1,10 @@
+git add: put something in the staging area
+git commit: put the changes in teh staging area into the respoisitory
+git clone: get an identical copy of a remote repository
+git log: give a record of the commit history
+git PUsh: Push local commits to the remote
+git remote: command to manage remote repositories
+
+git status: inspect teh staging area and the differences between work dir an
+
+
